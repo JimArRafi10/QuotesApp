@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Quotes</string>
+
+    <string name="quote1">"I think it is possible for ordinary people to choose to be extraordinary." </string>
+    <string name="quote2">"Failure is an option here. If things are not failing, you are not innovating enough."</string>
+    <string name="quote3">"When something is important enough, you do it even if the odds are not in your favor."</string>
+    <string name="quote4">"Persistence is very important. You should not give up unless you are forced to give up." </string>
+    <string name="quote5">"There's a tremendous bias against taking risks. Everyone is trying to optimize their ass-covering." </string>
+    <string name="quote6">"I don't think it's a good idea to plan to sell a company." </string>
+    <string name="quote7">"I say something, and then it usually happens. Maybe not on schedule, but it usually happens."</string>
+    <string name="quote8">"I don't create companies for the sake of creating companies, but to get things done." </string>
+    <string name="quote9">"I've actually not read any books on time management."</string>
+    <string name="quote10">"If you get up in the morning and think the future is going to be better, it is a bright day. Otherwise, it's not."</string>
+
+</resources>
